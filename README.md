@@ -1,6 +1,7 @@
 # TestPackageVitor
 
-[![Build Status](https://github.com/vitorfarinhaluz/TestPackageVitor.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/vitorfarinhaluz/TestPackageVitor.jl/actions/workflows/CI.yml?query=main)
+[![CI](https://github.com/vitorfarinhaluz/TestPackageVitor.jl/workflows/CI/badge.svg)](https://github.com/vitorfarinhaluz/TestPackageVitor.jl/actions?query=workflow%3ACI)
+
 [![Coverage](https://codecov.io/gh/vitorfarinhaluz/TestPackageVitor.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/vitorfarinhaluz/TestPackageVitor.jl)
 
-Hello!!
+Hello!!!
