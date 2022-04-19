@@ -1,10 +1,12 @@
 module TestPackageVitor
+import Plots: plot
 
 function printName()
     println(
         "My name is.... \n
-        Trying with Dev and Revise"
+        Just trying using with Revise"
     )
+    plot(x->x^2, 0,1)
 end
 
 end
