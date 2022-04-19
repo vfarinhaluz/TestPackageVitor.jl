@@ -3,7 +3,7 @@ module TestPackageVitor
 function printName()
     println(
         "My name is.... \n
-        I don't know anymore!"
+        Trying with Dev and Revise"
     )
 end
 
