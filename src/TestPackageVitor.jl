@@ -5,5 +5,6 @@ function printName()
         "My name is.... \n
         Vitor Farinha Luz!"
     )
+end
 
 end
